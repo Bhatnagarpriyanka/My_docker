@@ -1,3 +1,4 @@
+#this is pinky docker file
 FROM node:alpine
 WORKDIR '/app'
 COPY package.json .
